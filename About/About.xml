@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>VGP Garden Resources (Medieval Tech Patch)</name>
+  <author>Maaxar</author>
+  <targetVersion>1.0.0</targetVersion>
+  <description>
+Patches @dizmarzero's mod VGP Garden Resources to change the technology level and descriptions.
+  
+Modified research and descriptions to be medieval tech, mostly so I could use it when playing with the Third Age mod.
+
+Allows reasearch and smelting of VGP resource plants at the fueled smelter when playing with the "Lord of the Rims: Third Age" mod. You actually already could smelt them at the fueled smelter, since it is based on the electric smelter, but you couldn't research the technology from the VGP mod if playing with Third Age because it was Industrial tech. I also adjusted the decriptions on the smelting recipes and the descriptions of the leaves so they don't mention electricity or magnets.
+
+Requires VGP Garden Resources.
+
+Load Order should be:
+
+Core
+VGP Garden Resources
+VGP Garden Resources (Medieval Tech Patch)
+
+Thank you to dismarzero
+
+Original mod description:
+
+Garden Resources  (Does not require Vegetable Garden)
+
+Research Resource Plants: 
+-Steel Shrooms
+-Plasteel Bulb Chunks
+-Gold Fern Leaves
+-Silver Flower Petals
+-Uranium Root Bulbs
+
+
+-Adds new recipes added to the Electric Smelter to smelt plants.
+
+
+Grow Resources: 
+- Grow plants, which soak up minerals from the ground. 
+- Extract the minerals into ores at the Electric Smelter.  
+- Requires high growing and crafting skills.
+
+ </description>
+</ModMetaData>
+
+
+
