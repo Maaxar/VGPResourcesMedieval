@@ -4,7 +4,7 @@
 
 **VGP Garden Resources (Medieval Tech Patch)**
 
-Patches various medieval smelter mods to allow smelting the plants from dizmarzero's <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1185276569">VGP Garden Resources</a> mod.
+Patches various medieval smelter mods to allow smelting the plants from dismarzero's <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1185276569">VGP Garden Resources</a> mod.
 
 Patched mods include:
 
