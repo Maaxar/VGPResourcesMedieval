@@ -2,44 +2,21 @@
 <ModMetaData>
   <name>VGP Garden Resources (Medieval Tech Patch)</name>
   <author>Maaxar</author>
-  <targetVersion>1.0.0</targetVersion>
+  <targetVersion>1.0.2059</targetVersion>
   <description>
-Patches @dizmarzero's mod VGP Garden Resources to change the technology level and descriptions.
-  
-Modified research and descriptions to be medieval tech, mostly so I could use it when playing with the Third Age mod.
+Patches various medieval smelter mods to allow smelting the plants from dizmarzero's VGP Garden Resources mod.
 
-Allows reasearch and smelting of VGP resource plants at the fueled smelter when playing with the "Lord of the Rims: Third Age" mod. You actually already could smelt them at the fueled smelter, since it is based on the electric smelter, but you couldn't research the technology from the VGP mod if playing with Third Age because it was Industrial tech. I also adjusted the decriptions on the smelting recipes and the descriptions of the leaves so they don't mention electricity or magnets.
+Patched mods include:
+<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1400245220">Lord of the Rims: The Third Age</a>
+<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1402763255">Lord of the Rims: Unlimited</a>
+<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=732569232">Medieval Times</a>
+<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1472187898">Fueled Smelter</a>
 
-Requires VGP Garden Resources.
+Requires VGP Garden Resources to do anything useful.
 
-Load Order should be:
+Thank you to dismarzero for his awesome mod.
 
-Core
-VGP Garden Resources
-VGP Garden Resources (Medieval Tech Patch)
-
-Thank you to dismarzero
-
-Original mod description:
-
-Garden Resources  (Does not require Vegetable Garden)
-
-Research Resource Plants: 
--Steel Shrooms
--Plasteel Bulb Chunks
--Gold Fern Leaves
--Silver Flower Petals
--Uranium Root Bulbs
-
-
--Adds new recipes added to the Electric Smelter to smelt plants.
-
-
-Grow Resources: 
-- Grow plants, which soak up minerals from the ground. 
-- Extract the minerals into ores at the Electric Smelter.  
-- Requires high growing and crafting skills.
-
+Let me know if there is another smelter mod you would like patched.
  </description>
 </ModMetaData>
 

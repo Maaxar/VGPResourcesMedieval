@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<Operation Class="PatchOperationSequence">
+		<success>Always</success>
+		<operations>
+			<li Class="PatchOperationTest">
+				<xpath>/Defs/ThingDef[defName = "MedTimes_FueledSmelter"]</xpath>
+			</li>
+			<li Class="PatchOperationAdd">
+				<xpath>/Defs/ThingDef[defName = "MedTimes_FueledSmelter"]/recipes</xpath>
+				<value>
+					<li>ExtractRawSteelLeaf</li>
+					<li>ExtractRawPlasteelLeaf</li>					
+					<li>ExtractRawGoldLeaf</li>
+					<li>ExtractRawJadeLeaf</li>					
+					<li>ExtractRawSilverLeaf</li>
+					<li>ExtractRawUraniumLeaf</li>					
+					<li>ExtractBulkSteelLeaf</li>
+					<li>ExtractBulkPlasteelLeaf</li>					
+					<li>ExtractbulkGoldLeaf</li>
+					<li>ExtractBulkRawJadeLeaf</li>					
+					<li>ExtractBulkSilverLeaf</li>
+					<li>ExtractBulkUraniumLeaf</li>						
+				</value>
+			</li>
+		</operations>
+	</Operation>
+</Patch>
