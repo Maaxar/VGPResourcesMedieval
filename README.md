@@ -1,4 +1,6 @@
-# VGPResourcesMedieval - VGP Garden Resources (Medieval Tech Patch)
+# VGPResourcesMedieval
+
+**VGP Garden Resources (Medieval Tech Patch)**
 
 Patches various medieval smelter mods to allow smelting the plants from dizmarzero's VGP Garden Resources mod.
 
