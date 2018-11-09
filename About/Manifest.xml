@@ -3,13 +3,13 @@
     <identifier>VGPResourcesMedieval</identifier>
     <version>0.1.0.0</version>
 	    <dependencies>
-        <li>VGP Garden Resources</li>
+        <li>VGPGardenResources</li>
     </dependencies>
 	    <suggests>
         <li>LotR-TheThirdAge</li>
         <li>LotR-Unlimited</li>
-        <li>Medieval Times</li>
-        <li>Fueled Smelter [.19/1.0] Version</li>
+        <li>MedievalTimes</li>
+        <li>FueledSmelter[.19/1.0]Version</li>
 		</suggests>
     <showCrossPromotions>true</showCrossPromotions>
     <manifestUri>https://raw.githubusercontent.com/Maaxar/VGPResourcesMedieval/master/About/Manifest.xml</manifestUri>
