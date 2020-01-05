@@ -16,6 +16,11 @@ Patched mods include:
 
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1472187898">Fueled Smelter</a>
 
+<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1525404710">Coal</a> (Adds the recipes to the Coal Smelter)
+
+<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1883690422">Vanilla Iron and Steel</a> (Adds the recipes to the Bloomery, also added the standard smelt slag recipe which was missing)
+
+
 Requires VGP Garden Resources to do anything useful.
 
 Thank you to dismarzero for his awesome mod.
