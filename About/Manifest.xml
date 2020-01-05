@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Manifest>
     <identifier>VGPResourcesMedieval</identifier>
-    <version>0.1.0.0</version>
+    <version>0.1.0.1</version>
 	    <dependencies>
         <li>VGPGardenResources</li>
     </dependencies>
@@ -10,6 +10,8 @@
         <li>LotR-Unlimited</li>
         <li>MedievalTimes</li>
         <li>FueledSmelter[.19/1.0]Version</li>
+		<li>Coal</li>
+		<li>Vanilla Iron and Steel</li>
 		</suggests>
     <showCrossPromotions>true</showCrossPromotions>
     <manifestUri>https://raw.githubusercontent.com/Maaxar/VGPResourcesMedieval/master/About/Manifest.xml</manifestUri>
