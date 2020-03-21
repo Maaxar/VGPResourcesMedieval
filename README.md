@@ -20,7 +20,7 @@ Patched mods include:
 
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1883690422">Vanilla Iron and Steel</a> (Adds the recipes to the Bloomery, also added the standard smelt slag recipe which was missing)
 
-<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1880253632">Vanilla Furniture</a> Expanded - Production (Adds the recipes to the Fueled smelter)
+<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1880253632">Vanilla Furniture Expanded - Production</a> (Adds the recipes to the Fueled smelter)
 
 Requires VGP Garden Resources to do anything useful.
 
