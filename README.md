@@ -1,7 +1,6 @@
 # VGPResourcesMedieval
 
 
-
 **VGP Garden Resources (Medieval Tech Patch)**
 
 Patches various medieval smelter mods to allow smelting the plants from dismarzero's <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1185276569">VGP Garden Resources</a> mod.
@@ -22,7 +21,7 @@ Patched mods include:
 
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1880253632">Vanilla Furniture Expanded - Production</a> (Adds the recipes to the Fueled smelter)
 
-Requires VGP Garden Resources to do anything useful.
+Requires <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2007063451">VGP Garden Resources</a> to do anything useful.
 
 Thank you to dismarzero for his awesome mod.
 
