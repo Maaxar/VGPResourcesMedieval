@@ -8,18 +8,19 @@ Patches various medieval smelter mods to allow smelting the plants from dismarze
 
 Patched mods include:
 
-<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1400245220">Lord of the Rims: The Third Age</a>
+<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1400245220">Lord of the Rims: The Third Age</a>  (once it is updated to 1.1)
 
-<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1402763255">Lord of the Rims: Unlimited</a>
+<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1402763255">Lord of the Rims: Unlimited</a> (once it is updated to 1.1)
 
-<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=732569232">Medieval Times</a>
+<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=732569232">Medieval Times</a> (once it is updated to 1.1)
 
-<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1472187898">Fueled Smelter</a>
+<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1472187898">Fueled Smelter</a> (once it is updated to 1.1)
 
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1525404710">Coal</a> (Adds the recipes to the Coal Smelter)
 
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1883690422">Vanilla Iron and Steel</a> (Adds the recipes to the Bloomery, also added the standard smelt slag recipe which was missing)
 
+Vanilla Furniture Expanded - Production (Adds the recipes to the Fueled smelter)
 
 Requires VGP Garden Resources to do anything useful.
 

@@ -1,32 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <name>VGP Garden Resources (Medieval Tech Patch)</name>
-  <author>Maaxar</author>
-  <supportedVersions><li>1.0</li></supportedVersions>
-  <targetVersion>1.0.2408</targetVersion>
-  <description>
+	<name>VGP Garden Resources (Medieval Tech Patch)</name>
+	<author>Maaxar</author>
+	<supportedVersions>
+		<li>1.0</li>
+		<li>1.1</li>
+	</supportedVersions>
+	<packageId>Maaxar.VGPGardenResources.Medieval.patch</packageId>
+	<description>
 Patches various medieval smelter mods to allow smelting the plants from dismarzero's VGP Garden Resources mod.
 
 Patched mods include:
 
-Lord of the Rims: The Third Age
+Lord of the Rims: The Third Age (once it is updated to 1.1)
 
-Lord of the Rims: Unlimited
+Lord of the Rims: Unlimited (once it is updated to 1.1)
 
-Medieval Times
+Medieval Times (once it is updated to 1.1)
 
-Fueled Smelter
+Fueled Smelter (once it is updated to 1.1)
 
-Coal (Adds the recipes to the Coal Smelter)
+Coal/Coal Extended (Adds the recipes to the Coal Smelter)
 
 Vanilla Iron and Steel (Adds the recipes to the Bloomery, also added the standard smelt slag recipe which was missing)
+
+Vanilla Furniture Expanded - Production (Adds the recipes to the Fueled smelter)
 
 Requires VGP Garden Resources to do anything useful.
 
 Thank you to dismarzero for his awesome mod.
 
 Let me know if there is another smelter mod you would like patched.
- </description>
+	</description>
 </ModMetaData>
 
 
