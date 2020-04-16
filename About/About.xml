@@ -6,6 +6,15 @@
 		<li>1.0</li>
 		<li>1.1</li>
 	</supportedVersions>
+	<modDependencies>
+		<li>
+			<packageId>dismarzero.VGP.VGPGardenResources</packageId>
+			<displayName>VGP Garden Resources</displayName>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>dismarzero.VGP.VGPGardenResources</li>
+	</loadAfter>
 	<packageId>Maaxar.VGPGardenResources.MedievalTechPatch</packageId>
 	<description>
 Patches various medieval smelter mods to allow smelting the plants from dismarzero's VGP Garden Resources mod.
