@@ -29,6 +29,32 @@
 						<li>ExtractBulkUraniumLeaf</li>
 					</value>
 				</li>
+
+				<!-- Fix labels in steel recipes (pet peeve) -->
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/RecipeDef[defName="NECForgeSteel"]/label</xpath>
+					<value>
+						<label>forge iron into steel</label>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/RecipeDef[defName="NECForgeSteelBulk"]/label</xpath>
+					<value>
+						<label>forge iron into steel x10</label>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/RecipeDef[defName="NECForgeSteelBulker"]/label</xpath>
+					<value>
+						<label>forge iron into steel x50</label>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/RecipeDef[defName="NECForgeSteelMoreBulker"]/label</xpath>
+					<value>
+						<label>forge iron into steel x100</label>
+					</value>
+				</li>
 			</operations>
 		</match>
 	</Operation>

@@ -13,13 +13,13 @@
                 <li Class="PatchOperationReplace">
                     <xpath>/Defs/RecipeDef[defName="ExtractRawSteelLeaf"]/label</xpath>
                     <value>
-                        <label>smelt steel from steel shrooms</label>
+                        <label>smelt steel shrooms</label>
                     </value>
                 </li>
                 <li Class="PatchOperationReplace">
                     <xpath>/Defs/RecipeDef[defName="ExtractBulkSteelLeaf"]/label</xpath>
                     <value>
-                        <label>smelt steel from steel shrooms x4</label>
+                        <label>smelt steel shrooms x4</label>
                     </value>
                 </li>
 
@@ -27,13 +27,13 @@
                 <li Class="PatchOperationReplace">
                     <xpath>/Defs/RecipeDef[defName="ExtractRawPlasteelLeaf"]/label</xpath>
                     <value>
-                        <label>smelt plasteel from plasteel bulb chunks</label>
+                        <label>smelt plasteel bulb chunks</label>
                     </value>
                 </li>
                 <li Class="PatchOperationReplace">
                     <xpath>/Defs/RecipeDef[defName="ExtractBulkPlasteelLeaf"]/label</xpath>
                     <value>
-                        <label>smelt plasteel from plasteel bulb chunks x4</label>
+                        <label>smelt plasteel bulb chunks x4</label>
                     </value>
                 </li>
 
@@ -41,13 +41,13 @@
                 <li Class="PatchOperationReplace">
                     <xpath>/Defs/RecipeDef[defName="ExtractRawGoldLeaf"]/label</xpath>
                     <value>
-                        <label>smelt gold from gold fern leaves</label>
+                        <label>smelt gold fern leaves</label>
                     </value>
                 </li>
                 <li Class="PatchOperationReplace">
                     <xpath>/Defs/RecipeDef[defName="ExtractbulkGoldLeaf"]/label</xpath>
                     <value>
-                        <label>smelt gold from gold fern leaves x4</label>
+                        <label>smelt gold fern leaves x4</label>
                     </value>
                 </li>
 
@@ -55,13 +55,13 @@
                 <li Class="PatchOperationReplace">
                     <xpath>/Defs/RecipeDef[defName="ExtractRawJadeLeaf"]/label</xpath>
                     <value>
-                        <label>extract jade from jade crystals</label>
+                        <label>extract jade crystals</label>
                     </value>
                 </li>
                 <li Class="PatchOperationReplace">
                     <xpath>/Defs/RecipeDef[defName="ExtractBulkRawJadeLeaf"]/label</xpath>
                     <value>
-                        <label>extract jade from jade crystals x4</label>
+                        <label>extract jade crystals x4</label>
                     </value>
                 </li>
 
@@ -69,13 +69,13 @@
                 <li Class="PatchOperationReplace">
                     <xpath>/Defs/RecipeDef[defName="ExtractRawSilverLeaf"]/label</xpath>
                     <value>
-                        <label>smelt silver from silver flower petals</label>
+                        <label>smelt silver flower petals</label>
                     </value>
                 </li>
                 <li Class="PatchOperationReplace">
                     <xpath>/Defs/RecipeDef[defName="ExtractBulkSilverLeaf"]/label</xpath>
                     <value>
-                        <label>smelt silver from silver flower petals x4</label>
+                        <label>smelt silver flower petals x4</label>
                     </value>
                 </li>
 
@@ -83,13 +83,13 @@
                 <li Class="PatchOperationReplace">
                     <xpath>/Defs/RecipeDef[defName="ExtractRawUraniumLeaf"]/label</xpath>
                     <value>
-                        <label>smelt uranium from uranium root bulbs</label>
+                        <label>smelt uranium root bulbs</label>
                     </value>
                 </li>
                 <li Class="PatchOperationReplace">
                     <xpath>/Defs/RecipeDef[defName="ExtractBulkUraniumLeaf"]/label</xpath>
                     <value>
-                        <label>smelt uranium from uranium root bulbs x4</label>
+                        <label>smelt uranium root bulbs x4</label>
                     </value>
                 </li>
 
