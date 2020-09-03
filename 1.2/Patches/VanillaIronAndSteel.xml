@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>VGP Garden Resources</li>
+		</mods>
+		<match Class="PatchOperationSequence">
+			<success>Always</success>
+			<operations>
+				<li Class="PatchOperationTest">
+					<xpath>/Defs/ThingDef[defName = "NECBloomery"]</xpath>
+				</li>
+				<li Class="PatchOperationAdd">
+					<xpath>/Defs/ThingDef[defName = "NECBloomery"]/recipes</xpath>
+					<value>
+						<li>ExtractMetalFromSlag</li>
+						<li>ExtractRawSteelLeaf</li>
+						<li>ExtractRawPlasteelLeaf</li>
+						<li>ExtractRawGoldLeaf</li>
+						<li>ExtractRawJadeLeaf</li>
+						<li>ExtractRawSilverLeaf</li>
+						<li>ExtractRawUraniumLeaf</li>
+						<li>ExtractBulkSteelLeaf</li>
+						<li>ExtractBulkPlasteelLeaf</li>
+						<li>ExtractbulkGoldLeaf</li>
+						<li>ExtractBulkRawJadeLeaf</li>
+						<li>ExtractBulkSilverLeaf</li>
+						<li>ExtractBulkUraniumLeaf</li>
+					</value>
+				</li>
+
+				<!-- Fix labels in steel recipes (pet peeve) -->
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/RecipeDef[defName="NECForgeSteel"]/label</xpath>
+					<value>
+						<label>forge iron into steel</label>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/RecipeDef[defName="NECForgeSteelBulk"]/label</xpath>
+					<value>
+						<label>forge iron into steel x10</label>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/RecipeDef[defName="NECForgeSteelBulker"]/label</xpath>
+					<value>
+						<label>forge iron into steel x50</label>
+					</value>
+				</li>
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/RecipeDef[defName="NECForgeSteelMoreBulker"]/label</xpath>
+					<value>
+						<label>forge iron into steel x100</label>
+					</value>
+				</li>
+			</operations>
+		</match>
+	</Operation>
+
+</Patch>

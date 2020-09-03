@@ -5,6 +5,7 @@
 	<supportedVersions>
 		<li>1.0</li>
 		<li>1.1</li>
+		<li>1.2</li>
 	</supportedVersions>
 	<modDependencies>
 		<li>
@@ -17,17 +18,17 @@
 	</loadAfter>
 	<packageId>Maaxar.VGPGardenResources.MedievalTechPatch</packageId>
 	<description>
-Patches various medieval smelter mods to allow smelting the plants from dismarzero's VGP Garden Resources mod.
+Patches various medieval smelter mods to allow smelting the plants from dismarzero's VGP Garden Resources mod. Also changes the labels of the recipes so they are easier to identify in the recipe list.
 
 Patched mods include:
 
-Lord of the Rims: The Third Age (once it is updated to 1.1)
+Lord of the Rims: The Third Age (once it is updated to 1.2)
 
-Lord of the Rims: Unlimited (once it is updated to 1.1)
+Lord of the Rims: Unlimited (once it is updated to 1.2)
 
-Medieval Times (once it is updated to 1.1)
+Medieval Times (once it is updated to 1.2, should work with any unofficial updates)
 
-Fueled Smelter (once it is updated to 1.1)
+Fueled Smelter (once it is updated to 1.2)
 
 Coal/Coal Extended (Adds the recipes to the Coal Smelter)
 
