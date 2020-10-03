@@ -11,6 +11,7 @@
 		<li>
 			<packageId>dismarzero.VGP.VGPGardenResources</packageId>
 			<displayName>VGP Garden Resources</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=2007063451</steamWorkshopUrl>
 		</li>
 	</modDependencies>
 	<loadAfter>
